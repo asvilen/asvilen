@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Svilen Atanasov! Welcome to my GitHub profile.
 
-🚀 I'm passionate about Python, and I enjoy [Your Top Activities/Projects] in my coding journey.
+🚀 I'm passionate about Python, and I enjoy finding elegant solutions to complex problems.
 
 💡 I'm always eager to learn and collaborate on exciting new projects. Feel free to explore my repositories, and if you have any questions or ideas, don't hesitate to reach out.
 
