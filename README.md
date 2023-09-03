@@ -1,16 +1,21 @@
-### Hi there 👋
+# asvilen
 
-<!--
-**asvilen/asvilen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Svilen Atanasov! Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about Python, and I enjoy [Your Top Activities/Projects] in my coding journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I'm always eager to learn and collaborate on exciting new projects. Feel free to explore my repositories, and if you have any questions or ideas, don't hesitate to reach out.
+
+🌟 Here's a bit more about me:
+
+- 💼 Data Scientist
+- 📫 You can reach me at a.svilen@gmail.com
+- 🌐 OR connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/svilen-atanasov-81864144/)).
+
+📖 I'm also an avid reader, and my current favorite tech book is  "Clean Code: A Handbook of Agile Software Craftsmanship".
+
+🌱 Fun Fact: I once coded an entire project while skydiving. 🪂👨‍💻☕
+
+📝 Let's collaborate and build amazing things together!
+
+👇 Feel free to explore my work below and connect with me.
