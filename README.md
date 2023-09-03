@@ -10,7 +10,7 @@
 
 - 💼 Data Scientist
 - 📫 You can reach me at a.svilen@gmail.com
-- 🌐 OR connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/svilen-atanasov-81864144/)).
+- 🌐 Or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/svilen-atanasov-81864144/)).
 
 📖 I'm also an avid reader, and my current favorite tech book is  "Clean Code: A Handbook of Agile Software Craftsmanship".
 
