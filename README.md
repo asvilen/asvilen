@@ -14,7 +14,7 @@
 
 📖 I'm also an avid reader, and my current favorite tech book is  "Clean Code: A Handbook of Agile Software Craftsmanship".
 
-🌱 Fun Fact: I once coded an entire project while skydiving. 🪂👨‍💻☕
+🌱 Fun Fact: I once coded an entire project while skydiving. 🪂
 
 📝 Let's collaborate and build amazing things together!
 
