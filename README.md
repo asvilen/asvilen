@@ -8,7 +8,7 @@
 
 🌟 Here's a bit more about me:
 
-- 💼 Data Scientist
+- 💼 Data Scientist / Data Engineer
 - 📫 You can reach me at a.svilen@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/svilen-atanasov-81864144/)
 - 📞 Call me on +359 877 461 444
